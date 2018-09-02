@@ -14,5 +14,8 @@
     "try"
   ],
   "author": "Ammar Ali",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^4.0.2"
+  }
 }
